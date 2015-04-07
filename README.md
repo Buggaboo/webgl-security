@@ -21,3 +21,9 @@ Ask "stupid" questions like:
 Or...
 
 Find an openGL mathlib with arbitrary-prec. (opt. OpenGL 2.0 ES, for mobile?), but transpileable via Emscripten, then profit?!
+
+Or...
+
+* Read [this](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
+* Read [this](https://www.khronos.org/registry/webgl/specs/1.0/#5.14.5)
+* Rewrite [this](http://www.bealto.com/mp-mandelbrot_fp128-opencl.html) in webGL from openCL.
