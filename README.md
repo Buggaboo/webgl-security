@@ -12,3 +12,8 @@ Key exchange, Signing, Confirmation, and then maybe some symmetric ones e.g. Blo
 Also, why reinvent the wheel when you have emscripten.
 
 WiP.
+
+Ask "stupid" questions like:
+* Can big integer scalar operations be expressed as matrix transformations? [Because we can use these libraries.](http://blog.tojicode.com/2010/06/stupidly-fast-webgl-matricies.html)
+* 4x4, word-size 128 bit, is the maximum precision?
+* What is precision? vec4 is [double, double, double, double]?
